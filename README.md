@@ -1,4 +1,7 @@
 # Counter App
-Creating projects from simple to advanced
+
+First Project
+
+** Creating projects including simple and advanced ones.
 
 
