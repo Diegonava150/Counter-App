@@ -2,7 +2,7 @@
 
 https://navarro-counter-app.netlify.app/
 
-First Project
+1st Project
 
 ** Creating projects including simple and advanced ones.
 
